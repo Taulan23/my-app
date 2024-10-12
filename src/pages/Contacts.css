@@ -1,0 +1,14 @@
+.contacts {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.contacts h1 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.contacts p {
+  margin-bottom: 10px;
+}
